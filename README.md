@@ -7,9 +7,7 @@ Compare your output with some of these answers: 1:1, 2:2, 3:6, 4:24, 5:120, 8:40
 N = int(input())  # Read user-entered number
 total = N
 Initialize the loop variable
-
 while i ? ??:
     # Set total to total * (i)
     # Decrement i
-
 print(total)
